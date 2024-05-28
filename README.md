@@ -3,3 +3,6 @@
 
  ## Usage
  Simply download the repo, navigate to the directory, run a terminal and type `python script.py`.
+
+ ## Screenshot
+ ![PyCalc GUI screenshot](screenshot.png)
