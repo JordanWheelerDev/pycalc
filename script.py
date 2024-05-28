@@ -50,7 +50,7 @@ def on_key_press(event):
 
 # Create the main window
 root = tk.Tk()
-root.title("Python Calculator")
+root.title("PyCalc")
 root.geometry("350x450")
 root.resizable(False, False)
 
